@@ -93,8 +93,8 @@ USE_ZONE_SERVER=true
 ZONE_SERVER_ADDR=tcp://broadcastlv.chat.bilibili.com:2243/sub
 
 # SERVER酱|令牌KEY|过滤关键词|逗号分隔
-USE_SC=false
-SC_KEY=
+USE_SC=true
+SC_KEY=SCT7366TyxTghr75fFUir7tNoD1MJrDT
 SC_FILTER_WORDS=
 
 # 小心心|加密服务器(开源)|
